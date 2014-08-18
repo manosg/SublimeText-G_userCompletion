@@ -1,0 +1,9 @@
+{
+	"scope": "source.js -string -comment -constant",
+
+	"completions": [
+
+		// GlideRecord
+		{ "trigger": "g_user", "contents": "g_user." }
+	]
+}
